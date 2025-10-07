@@ -68,7 +68,7 @@
 
 -- Library init
     getgenv().library = {
-        directory = "milenium",
+        directory = "Overguard",
         folders = {
             "/fonts",
             "/configs",
